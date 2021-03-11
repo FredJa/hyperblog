@@ -1,4 +1,2 @@
-prueba de git y github con platzi
-
-prueba tambien con html y css
-y tambien de la semana pasada
+prueba de git 
+ efe
