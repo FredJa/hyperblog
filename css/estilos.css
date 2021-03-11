@@ -12,6 +12,20 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera{
+
+    background-color: #339;
+    box-shadow: 0rem 0.5rem 3rem 0rem rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
+}
+#cabecera #tagline{
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 1.7rem;
+}
 #container{
 
     width: 70%;
@@ -23,4 +37,7 @@ body
 #container h1{
 
     font-size: 5rem;
+}
+#post{
+    padding: 1rem;
 }
